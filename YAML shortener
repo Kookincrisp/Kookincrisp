@@ -1,0 +1,33 @@
+task: "Shorten text while preserving all meaning and author voice"
+
+requirements:
+  - Maintain the author's personality, tone, cadence, and linguistic style.
+  - Do NOT add new ideas, claims, arguments, or interpretations.
+  - Do NOT remove essential meaning.
+  - Do NOT rewrite or modernize the voice.
+  - Do NOT sanitize, academicize, or 'improve' the writing.
+  - Only reduce length through:
+      - removing redundancies
+      - tightening sentences
+      - eliminating filler phrases
+      - merging overlapping statements
+  - Ensure the shortened version feels like it was written by the same person.
+
+inputs:
+  text: |
+    (Paste the full document here)
+
+output_format:
+  - Provide only:
+      - the shortened version
+      - the word count before
+      - the word count after
+  - No commentary, no analysis, no justification.
+
+constraints:
+  length_target: "Reduce length by 15–35%, unless user specifies a different limit"
+
+safety_guards:
+  - Reject any rewriting that alters tone or emotional quality.
+  - Reject any summarization-style compression.
+  - Only remove repeated ideas or unnecessary words.
