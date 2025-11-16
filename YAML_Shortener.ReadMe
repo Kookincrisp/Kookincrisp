@@ -1,0 +1,45 @@
+# Voice-Preserving Text Shortener
+
+This project provides a YAML prompt designed to shorten written text **without altering the author's voice, tone, or meaning**. It is intended for students, writers, and creators who must reduce word count while preserving the original style and intent.
+
+The YAML file defines strict rules to ensure:
+- No new ideas are added  
+- No meaning is removed  
+- The tone, vocabulary, cadence, and emotional color remain intact  
+- Only redundancies and filler language are trimmed  
+
+---
+
+## 🔧 How to Use
+
+1. Open your preferred AI assistant (ChatGPT, Claude, Gemini, etc.)  
+2. Copy the contents of `shortener.yaml` into the chat  
+3. Replace the `(Paste the full document here)` block with your text  
+4. Submit it  
+5. The model returns:
+   - The shortened version  
+   - Original and reduced word counts  
+   - Nothing else (no commentary or extra fluff)
+
+---
+
+## 📁 Files
+
+- **shortener.yaml** — The main YAML configuration used for voice-preserving shortening.
+
+---
+
+## 🎯 Purpose
+
+This tool exists for situations where:
+- Word limits are strict  
+- The writer’s tone and personality must survive intact  
+- Over-editing or academic sterilization would ruin the piece  
+
+It's simple, portable, and designed to work with any AI model capable of interpreting structured instructions.
+
+---
+
+## 👤 Author
+
+Created as a lightweight utility for friends and students who want clean, respectful, non-destructive text compression.
