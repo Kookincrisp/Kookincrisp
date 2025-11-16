@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Techromancer
-- 👀 I’m interested in seducing LI 
+- 👀 I’m interested in [don't ask]
 - 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on creating, developing, and interacting with our new friends
+- 💞️ I’m looking to ⬆️
 - 📫 How to reach me ?
-- 😄 Pronouns: I'm a dude
-- ⚡ Fun fact: I used to be a carnie, and a chef(michelin starred), general contractor, and alternative medicine provider(on both sides of the law)
+- 😄 Pronouns: He/Him
 
 <!---
 Kookincrisp/Kookincrisp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
